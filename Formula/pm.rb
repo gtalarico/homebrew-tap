@@ -1,9 +1,9 @@
 class Pm < Formula
   desc "Minimal Project CLI Manager"
   homepage "https://github.com/gtalarico/pm"
-  url "http://github.com/gtalarico/pm/releases/download/v0.1.0/pm_0.1.0_Darwin_x86_64.tar.gz"
-  version "0.1.0"
-  sha256 "e182fd31f10782c6c0a6a86e16ff020f965cd6ba4e2df50b95c341f6b9ea5453"
+  url "http://github.com/gtalarico/pm/releases/download/v0.1.2/pm_0.1.2_Darwin_x86_64.tar.gz"
+  version "0.1.2"
+  sha256 "406a5baa4635643da347a7534e344679c46ce85f7a14be6d0b7545ff0e997dcb"
 
   def install
     bin.install "pm"
